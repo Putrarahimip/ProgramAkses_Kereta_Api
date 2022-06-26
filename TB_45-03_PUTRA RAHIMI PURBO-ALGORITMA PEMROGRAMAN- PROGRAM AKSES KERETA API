@@ -1,8 +1,3 @@
-#Tugas Besar Algoritma Dan Pemrograman
-#Nama   : Putra Rahimi Purbo
-#NIM    : 1202210022
-#Kelas  : SI4503
-
 # import library matplolib untuk visualisasi data yang digunakan
 import matplotlib.pyplot as plt
 
